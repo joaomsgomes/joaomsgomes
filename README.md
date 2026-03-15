@@ -1,10 +1,22 @@
 ## 👋 João Gomes
 
-🚀 Computer Science student at **Instituto Superior Técnico** | Co-Founder & Software Engineer at **Lazzo** | Interested in **AI, Backend Systems and Mobile Development**
+🚀 Computer Science student at **Instituto Superior Técnico** | Co-Founder & Software Engineer at **Lazzo** | High-Performance Athlete at **Sporting CP**
 
-I am a Computer Science & Engineering student at Instituto Superior Técnico passionate about building impactful software systems and exploring how technology can solve real-world problems. I am particularly interested in **backend architectures, artificial intelligence and machine learning**, especially how intelligent systems can be integrated into practical applications.
+![Flutter](https://img.shields.io/badge/Flutter-grey)
+![Dart](https://img.shields.io/badge/Dart-grey)
+![Python](https://img.shields.io/badge/Python-grey)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey)
+![Supabase](https://img.shields.io/badge/Supabase-grey)
+![React](https://img.shields.io/badge/React-grey)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-grey)
+![AWS](https://img.shields.io/badge/AWS-grey)
+![Git](https://img.shields.io/badge/Git-grey)
 
-Currently, I am co-founding **Lazzo**, a mobile platform focused on helping private groups organize events and coordinate shared experiences in real time.
+🔎 **Interests:** backend systems · artificial intelligence · machine learning · mobile platforms
+
+I am passionate about building impactful software systems and exploring how technology can solve real-world problems. I am particularly interested in backend architectures and intelligent systems, and I enjoy developing applications that combine strong engineering foundations with practical real-world use cases.
+
+Currently co-founding **Lazzo**, a mobile platform that helps private groups organize events and coordinate shared experiences.
 
 ---
 
@@ -25,35 +37,38 @@ Currently, I am co-founding **Lazzo**, a mobile platform focused on helping priv
 
 ---
 
-### 🛠 Tech Stack
+### 🧠 Tech Stack
 
-**Mobile**  
-Flutter • Dart • Riverpod  
+**Languages**
 
-**Backend & Databases**  
-Supabase • PostgreSQL • JWT • OAuth  
+`C` • `C++` • `Python` • `Java` • `TypeScript`
 
-**Data & AI**  
-Scikit-learn • Pandas • NumPy • Flask  
+**Technologies & Tools**
 
-**Tools**  
-Git • GitHub • GitHub Actions • AWS • Figma  
+`Flutter` • `Supabase` • `PostgreSQL` • `Git` • `GitHub` • `AWS` • `Vercel` • `PostHog` • `Figma`
+
+**Core Areas**
+
+`Backend Systems` • `Machine Learning` • `Mobile Development` • `Data Systems` • `Distributed Systems`
 
 ---
 
-### 📚 Training
+### 📜 Certifications & Awards
 
-- **EY AI Hackathon** — Artificial intelligence applications in business environments  
+- **CanSat 2023 - (AtmoWatch) ESA Best Antenna Award** — European Space Agency competition recognition
+
 - **AWS Machine Learning Associate Certification**
+
+- **EY AI Hackathon** — Artificial Intelligence applications in business environments
 
 ---
 
 ### 🎓 Education
 
-**BSc Computer Science and Engineering**  
+**BSc Computer Science & Engineering**  
 Instituto Superior Técnico — Lisbon  
 
-Visiting Student  
+Visiting Student - Athens Programme (April 2025)
 Czech Technical University — Prague  
 Programme: **Data Management Strategies**
 
@@ -68,8 +83,15 @@ Programme: **Data Management Strategies**
 
 ---
 
+### 🤝 I'm Open To
+
+- Internships at **elite engineering teams** looking to solve **real-world problems**
+- Software Engineering opportunities in **backend and distributed systems**
+- Projects involving **machine learning and intelligent applications**
+- Innovative **mobile or data-driven products**
+
 ### 📫 Contact
 
-📧 joao.montez.gomes@gmail.com  
-💻 github.com/joaomsgomes  
-🔗 linkedin.com/in/joaomsgomes
+📧 joao.montez.gomes@gmail.com •
+💻 [github.com/joaomsgomes](https://github.com/joaomsgomes) •
+🔗 https://linkedin.com/in/joaomsgomes
