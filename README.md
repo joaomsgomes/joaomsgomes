@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 João Gomes
 
-<!--
-**joaomsgomes/joaomsgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at **Instituto Superior Técnico**  
+🚀 Co-Founder & Software Engineer at **Lazzo**  
+🤖 Interested in **AI, Mobile Systems and Backend Engineering**
 
-Here are some ideas to get you started:
+I enjoy building real-world systems — from **mobile applications** to **secure backend platforms and AI solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Projects
+
+### 🔐 [LockBox](https://github.com/joaomsgomes/LockBox)
+Secure password management platform built with **React, TypeScript and Supabase**.
+
+### 🧠 [AI Nuoromino Puzzle Solver](https://github.com/joaomsgomes/AI-Nuoromino-Puzzle-)
+Artificial Intelligence solver exploring **search algorithms and constraint satisfaction**.
+
+### 🎬 [MovieSystem](https://github.com/joaomsgomes/MovieSystem)
+Java-based system focused on **object-oriented design and data management**.
+
+### 📱 Lazzo *(Private Repository)*
+Mobile platform for coordinating private group events.  
+Built with **Flutter, Supabase and PostgreSQL**. Closed beta expected in **2026**.
+
+---
+
+# 🛠 Tech Stack
+
+**Mobile**  
+Flutter • Dart • Riverpod  
+
+**Backend & Databases**  
+Supabase • PostgreSQL • JWT • OAuth  
+
+**Data & AI**  
+Scikit-learn • Pandas • NumPy • Flask  
+
+**Tools**  
+Git • GitHub • GitHub Actions • AWS • Figma  
+
+---
+
+# 📚 Training
+
+🤖 **EY AI Hackathon** — Artificial Intelligence applications in business environments  
+
+☁ **AWS Machine Learning Associate Certification**
+
+---
+
+# 🎓 Education
+
+**BSc Computer Science and Engineering**  
+Instituto Superior Técnico — Lisbon  
+
+Visiting Student  
+Czech Technical University — Prague  
+Programme: **Data Management Strategies**
+
+---
+
+# 🏆 Leadership
+
+🏊 Water Polo Athlete — Sporting CP  
+
+• Two-time Portuguese National Champion  
+• Team captain  
+
+---
+
+# 📫 Contact
+
+📧 joao.montez.gomes@gmail.com  
+💻 https://github.com/joaomsgomes  
+🔗 https://linkedin.com/in/joaomsgomes
